@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello from main
-=======
-Hello from feature A
->>>>>>> feature-1
+Hello from feature B
