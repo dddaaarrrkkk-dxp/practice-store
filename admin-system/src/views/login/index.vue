@@ -3,7 +3,7 @@
     <div class="login-box">
       <div class="login-title">
         <img src="../assets/logo.svg" alt="Logo" />
-        <h1>后台管理系统1</h1>
+        <h1>后台管理系统2</h1>
       </div>
       <a-form
         :model="formState"
